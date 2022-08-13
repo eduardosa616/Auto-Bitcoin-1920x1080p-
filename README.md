@@ -1,2 +1,4 @@
-# Auto-Bitcoin-1920x1080p-
-Minhas automações feitas em Python
+# FreeBitcoin_Bot
+
+Bot para pegar bitcoin na faucet
+

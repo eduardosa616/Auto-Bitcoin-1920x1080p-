@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+freebitcoin_bot/__init__.py
+freebitcoin_bot/__main__.py
+freebitcoin_bot/bot.py
+freebitcoin_bot.egg-info/PKG-INFO
+freebitcoin_bot.egg-info/SOURCES.txt
+freebitcoin_bot.egg-info/dependency_links.txt
+freebitcoin_bot.egg-info/requires.txt
+freebitcoin_bot.egg-info/top_level.txt
+freebitcoin_bot/resources/start.png
